@@ -51,7 +51,8 @@ source .venv/bin/activate  # Linux/Mac
 - O modelo roda localmente, podendo consumir bastante memória dependendo da máquina.
 - O tempo de resposta pode variar conforme o hardware.
 
-  <img width="596" height="626" alt="image" src="https://github.com/user-attachments/assets/f5da9b26-b9ae-46e9-9c75-132dc3a340d3" />
+<img width="597" height="630" alt="image" src="https://github.com/user-attachments/assets/6e1b4b0b-ee2f-45a7-bfde-51c4a72bc116" />
+
 
 ## Aprendizados
 
